@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YasminAhmed22" alt="YasminAhmed22" /></a> </p>
 
-- 📝 I regularly write articles on [YasminAhmed](https://www.linkedin.com/in/yasmine-ahmed-9836b1349)
+- 📝 I regularly write articles on [YasminAhmed](http://www.linkedin.com/in/yasmine-ahmed)
 
 - 💬 Ask me about **C, C++, C# and HR**
 
