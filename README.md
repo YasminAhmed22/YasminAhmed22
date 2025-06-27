@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C, C++, C# and HR**
 
-- 📫 How to reach me **ahhamouda600@gmail.com**
+- 📫 How to reach me **yasmin.ahmed.cs@gmail.com**
 
 - ⚡ Fun fact **I never give up**
  
